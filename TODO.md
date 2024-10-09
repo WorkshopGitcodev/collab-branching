@@ -2,7 +2,7 @@
 
 Distribute at least one task among each member in your team.
 
-* [ ] ADD a function to select between division and multiplication to the `src/main.py`
+* [ ] Add a function to select between division and multiplication to the `src/main.py`
 * [ ] Add comments/docstrings to the code in `src/`
 * [ ] Fix bug in function in `src/operations.py`
 * [ ] Write documentation
