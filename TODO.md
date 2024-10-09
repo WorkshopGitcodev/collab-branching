@@ -9,6 +9,7 @@ Distribute at least one task among each member in your team.
 * [ ] Write tests for functions in `main.py and operations.py`
 * [ ] Follow the hints in `README.md`  to update its content.
 * [ ] Add other operations to `src/operations.py`
+* [ ] Learn about [type annotations](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html) and add *type hints* to functions in `src/operations.py`
 * [ ] Chose and add license to repo
 * [ ] Update the `CITATION.cff` file with collaborator's names
 * [ ] Write collaboration guidelines to `CONTRIBUTING.md`
